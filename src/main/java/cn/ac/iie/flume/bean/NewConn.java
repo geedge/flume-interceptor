@@ -133,8 +133,6 @@ public class NewConn {
     private String voip_called_number;
     private String streaming_media_url;
     private String streaming_media_protocol;
-
-
     public long getCommon_log_id() {
         return common_log_id;
     }

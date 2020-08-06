@@ -32,7 +32,7 @@
             <configuration>
               <transformers>
                 <transformer>
-                  <mainClass>cn.ac.iie.flume.interceptor.Json2Csv</mainClass>
+                  <mainClass>cn.ac.iie.flume.interceptor.File2Json</mainClass>
                 </transformer>
                 <transformer>
                   <resource>META-INF/spring.handlers</resource>
